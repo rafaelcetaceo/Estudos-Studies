@@ -1,0 +1,31 @@
+body{
+    background: white;
+    margin: auto;
+    padding-left: 10px 15px;
+}
+
+#title, .subtitle {
+    color: black;
+}
+
+.subtitle {
+    font-size: 18px;
+    font-style:italic;
+}
+
+#title, .subtitle, .mainImage{
+    text-align: center;
+}
+
+.post {
+    background:whitesmoke;
+    padding-left: 10px;
+    border: 3px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    font-family: verdana, arial;
+}
+
+.footer {
+    padding-left: 10px;
+}
