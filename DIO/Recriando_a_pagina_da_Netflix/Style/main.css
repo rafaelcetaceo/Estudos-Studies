@@ -48,9 +48,9 @@ Filme principal
 
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0, .50), rgba(0,0,0,.50)100%), url('/Images/House_of_cards_background.jpg');
+    background: linear-gradient(rgba(0,0,0, .50), rgba(0,0,0,.50)100%), url('/Images/Fullmetal_Alchemist_Background.jpg');
 
-    height: 400px;
+    height: 650px;
     background-size: cover;
 
     display: flex;
@@ -91,4 +91,18 @@ Filme principal
 
 .botao i{
     margin-right: 5px;
+}
+
+.container{
+    margin-left: 20px;
+}
+
+.filme-principal .container{
+    width: 60%;
+}
+
+.box-filme{
+    height: 250px;
+    width: 100px;
+    display: block;
 }
