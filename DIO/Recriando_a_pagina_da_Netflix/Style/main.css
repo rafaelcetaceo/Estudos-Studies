@@ -15,7 +15,7 @@ Elementos Base
 
 body{
     background: var(--preta);
-    font-family: 'Times New Roman', Times, serif;
+    font-family:Arial, Helvetica, sans-serif;
     color: white;
 }
 
@@ -48,7 +48,7 @@ Filme principal
 
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0, .50), rgba(0,0,0,.50)100%), url('/Images/Fullmetal_Alchemist_Background.jpg');
+    background: linear-gradient(rgba(0,0,0, .50), rgba(0,0,0,.50)100%), url('https://www.themoviedb.org/t/p/original/5ex4La3ZBYTK8RGOpmtInGPNBVm.jpg');
 
     height: 650px;
     background-size: cover;
@@ -105,4 +105,8 @@ Filme principal
     height: 250px;
     width: 100px;
     display: block;
+}
+
+.carrosel-filmes{
+    margin-top: 5px;
 }
