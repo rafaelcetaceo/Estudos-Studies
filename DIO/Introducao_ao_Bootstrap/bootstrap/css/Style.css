@@ -1,0 +1,40 @@
+body{
+    font: 20px arial, sans-serif;
+}
+.navbar{
+    background-color: rgb(58, 148, 81);
+}
+
+.quem-somos{
+    background-color: rgb(52, 180, 84);
+    color: white;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: rgb(58, 148, 81);
+    color: white;
+}
+
+.servicos{
+    background-color: rgb(52, 180, 84);
+    color: white;
+}
+
+.bg-footer{
+    background-color: rgb(41, 38, 38);
+    color: white;    
+}
+
+.alch-tattoo{
+    margin-left: 10px;
+}
+
+.artists{
+    width: 200px;
+    height: 250px;
+}
